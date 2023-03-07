@@ -1,7 +1,8 @@
 # 🎴👨‍💻 Clone Pipefy
 
 ## 📝 Descrição
-O projeto é um clone do Pipefy, uma aplicação para gerenciamento de tarefas, com o objetivo de permitir que o usuário crie e organize listas de tarefas em diferentes categorias apenas arrastando e soltando.
+O projeto é um clone do Pipefy, uma aplicação para gerenciamento de tarefas, com o objetivo de permitir que o usuário crie e organize listas de tarefas em diferentes categorias apenas arrastando e soltando.</br>
+O projeto é baseado em uma aula da RocketSeat, para assistir a aula clique [aqui](https://www.youtube.com/watch?v=awRtgpRsdTQ).
 
 ## 🔗 Acesse o Projeto
 Clique [aqui](https://drag-in-drop-raiz.vercel.app/) para acessar o projeto.
